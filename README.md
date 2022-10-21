@@ -1,9 +1,7 @@
-# Landing-Page-Udacity
-
 I AM Very Happy to Finish my First Project
-and Hope to Pass Through Successfully
+ and Hope to Pass Through Successfully
 I Used All the Tools I Learned in The Course,
-and I Fulfilled All The Requirements you Asked me in The Project.
+ and I Fulfilled All The Requirements you Asked me in The Project.
 
  1- I Added Section Number 4 in HTML
 
